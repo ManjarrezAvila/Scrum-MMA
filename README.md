@@ -86,7 +86,7 @@ Scrum is based on the theory of control of empirical processes or empiricism. Th
 
 In the following table, mark the role or roles that must perform the activity or responsibility described in the first column.
 
-![Alt text](http://i.imgur.com/Kxlom3m.png?raw=true "Responsibilities")
+![Alt text](http://i.imgur.com/O5H2BB9.png?raw=true "Responsibilities")
 
 **Activity 2**
 
